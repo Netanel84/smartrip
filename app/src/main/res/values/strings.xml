@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">SmarTrip</string>
+    <string name="origin">מוצא</string>
+    <string name="destination">יעד</string>
+    <string name="plan">תכנן</string>
+    <string name="pick_departure">בחר זמן יציאה</string>
+    <string name="party_profile">פרטי קבוצה</string>
+    <string name="infants">תינוקות</string>
+    <string name="stroller">עגלת תינוק</string>
+    <string name="wheelchair">כיסא גלגלים</string>
+    <string name="kids">ילדים</string>
+    <string name="adults">מבוגרים</string>
+    <string name="fuel_mandatory">תחנת דלק – חובה</string>
+    <string name="choose_nav">בחר אפליקציית ניווט</string>
+    <string name="nav_maps">מפות</string>
+    <string name="nav_waze">ווייז</string>
+    <string name="summary">%1$s → %2$s</string>
+    <string name="planned_time">שעת יציאה מתוכננת: %1$s</string>
+    <string name="drive_time">זמן נהיגה נטו (אומדן): %1$d דק׳</string>
+    <string name="total_time">זמן כולל ≈ %1$d דק׳</string>
+    <string name="cat_fuel">דלק</string>
+    <string name="cat_coffee">קפה</string>
+    <string name="cat_food">מסעדה</string>
+    <string name="cat_park">פארק</string>
+    <string name="navigate_dest">נווט ליעד</string>
+    <string name="window_label">עצירה %1$d</string>
 </resources>
